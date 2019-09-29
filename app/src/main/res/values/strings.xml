@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoYelpApp</string>
+    <string name="loading_error">An error occurred while loading data</string>
+</resources>
